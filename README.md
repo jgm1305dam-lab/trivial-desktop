@@ -1,3 +1,5 @@
+Enlace Youtube: https://youtu.be/5r7VUHX47-U
+
 # Trivial Multijugador (Cliente Desktop)
 
 Cliente de escritorio escrito con Kotlin y Compose Multiplatform que permite jugar a un trivial en modo PVE (contra el servidor) y un modo PVP local (dos jugadores por turnos compartiendo el mismo equipo).
